@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Hi! <img src="https://github.com/timmayo/timmayo/blob/main/wave.gif" width="30px"> I'm Tim Mayo
+## Hi! <img src="https://github.com/timmayo/timmayo/blob/main/wave.gif" width="30px"> I'm Tim Mayo
 <!--
 **timmayo/timmayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
