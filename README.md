@@ -1,10 +1,12 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=timmayo)
+
 ## Hi! <img src="https://github.com/timmayo/timmayo/blob/main/wave.gif" width="30px"> I'm Tim Mayo
 
 I work as a Customer Engineer at Microsoft and I help our customers use Microsoft 365. I really enjoy leading workshops for SharePoint, Teams, Power Platform and the Microsoft Graph.
 
 ## How to reach me
-Twitter
-LinkedIn
+Twitter: 
+LinkedIn: 
 <!--
 **timmayo/timmayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
