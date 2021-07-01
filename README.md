@@ -5,7 +5,7 @@
 
 ## Hi! <img src="https://github.com/timmayo/timmayo/blob/main/wave.gif" width="30px"> I'm Tim Mayo
 
-I work as a Customer Engineer at Microsoft and I help our customers use Microsoft 365. I really enjoy leading workshops for SharePoint, Teams, Power Platform and the Microsoft Graph.
+I work as a Customer Engineer at Microsoft and I help our customers use Microsoft 365. I really enjoy leading workshops for SharePoint, Teams, Power Platform and Microsoft Graph.
 
 
 
