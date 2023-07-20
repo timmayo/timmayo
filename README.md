@@ -5,7 +5,7 @@
 
 ## Hi! <img src="https://github.com/timmayo/timmayo/blob/main/wave.gif" width="30px"> I'm Tim Mayo
 
-I work as a Cloud Solution Architect at Microsoft and I lead a lot of workshops for SharePoint, Teams, and Power Platform.
+I'm a Cloud Solution Architect at Microsoft and I lead a lot of workshops for Power Platform, SharePoint, and Teams.
 
 
 
