@@ -1,4 +1,6 @@
 
+# linked to https://www.timmayo.com/upload-content-to-sharepoint-using-powershell/
+
 $cred = (Get-Credential admin@YOUR_DOMAIN.onmicrosoft.com)
 $sourceFiles = '\\FILE_SHARE\migration'
 $sourcePackage = 'c:\migration\source'
